@@ -10,7 +10,7 @@
 
 视图的用途是用来存放应用程序中 HTML 内容，并且能够将你的控制器层（或应用逻辑层）与展现层分开。视图文件目录为 `resources/views` ，示例视图如下：
 
-    <!-- 此视图文件位置：resources/views/greeting.php -->
+    <!-- 此视图文件位置：resources/views/greeting.blade.php -->
 
     <html>
         <body>
